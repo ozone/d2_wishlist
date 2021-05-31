@@ -1,1 +1,1 @@
-dimwishlist:item=-1&perks=1631667848,4082225868#notes:testing trashlist functionality. actually a good combo. do not discard.
+dimwishlist:item=-1&perks=3643424744,3350417888#notes:Overflow & Sympathetic Arsenal do not synergize.
