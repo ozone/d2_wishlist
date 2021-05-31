@@ -1,1 +1,16 @@
+// Perks that do not synergize because one works on reload and the other ones avoids reloads.
+
 dimwishlist:item=-1&perks=3643424744,3350417888#notes:Overflow & Sympathetic Arsenal do not synergize.
+dimwishlist:item=-1&perks=3643424744,1015611457#notes:Overflow & Kill Clip do not synergize.
+dimwishlist:item=-1&perks=3643424744,2458213969#notes:Overflow & Multikill Clip do not synergize.
+dimwishlist:item=-1&perks=3643424744,2946784966#notes:Overflow & Tunnel Vision do not synergize.
+
+dimwishlist:item=-1&perks=1820235745,3350417888#notes:Subsistence & Sympathetic Arsenal do not synergize.
+dimwishlist:item=-1&perks=1820235745,1015611457#notes:Subsistence & Kill Clip do not synergize.
+dimwishlist:item=-1&perks=1820235745,2458213969#notes:Subsistence & Multikill Clip do not synergize.
+dimwishlist:item=-1&perks=1820235745,2946784966#notes:Subsistence & Tunnel Vision do not synergize.
+
+dimwishlist:item=-1&perks=3418782618,3350417888#notes:Rewind Rounds & Sympathetic Arsenal do not synergize.
+dimwishlist:item=-1&perks=3418782618,1015611457#notes:Rewind Rounds & Kill Clip do not synergize.
+dimwishlist:item=-1&perks=3418782618,2458213969#notes:Rewind Rounds & Multikill Clip do not synergize.
+dimwishlist:item=-1&perks=3418782618,2946784966#notes:Rewind Rounds & Tunnel Vision do not synergize.
