@@ -14,3 +14,8 @@ dimwishlist:item=-1&perks=3418782618,3350417888#notes:Rewind Rounds & Sympatheti
 dimwishlist:item=-1&perks=3418782618,1015611457#notes:Rewind Rounds & Kill Clip do not synergize.
 dimwishlist:item=-1&perks=3418782618,2458213969#notes:Rewind Rounds & Multikill Clip do not synergize.
 dimwishlist:item=-1&perks=3418782618,2946784966#notes:Rewind Rounds & Tunnel Vision do not synergize.
+
+dimwishlist:item=-1&perks=3400784728,3350417888#notes:Triple Tap & Sympathetic Arsenal do not synergize.
+dimwishlist:item=-1&perks=3400784728,1015611457#notes:Triple Tap & Kill Clip do not synergize.
+dimwishlist:item=-1&perks=3400784728,2458213969#notes:Triple Tap & Multikill Clip do not synergize.
+dimwishlist:item=-1&perks=3400784728,2946784966#notes:Triple Tap & Tunnel Vision do not synergize.
