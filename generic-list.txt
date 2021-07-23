@@ -5,7 +5,7 @@
 dimwishlist:item=1&perks=1168162263,1015611457#notes:Outlaw & Kill Clip synergize.
 dimwishlist:item=1&perks=1168162263,2458213969#notes:Outlaw & Multikill Clip synergize.
 dimwishlist:item=1&perks=1354429876,3425386926#notes:Fourth Time's the Charm & Rampage synergize.
-dimwishlist:item=1&perks=1556840489,1546637391#notes:Disruption Break & Vorpal Weapon (anti-champion).
+dimwishlist:item=1&perks=1556840489,1546637391#notes:Lead from Gold & Vorpal Weapon (anti-champion).
 dimwishlist:item=1&perks=1570042021,3425386926#notes:Heating Up & Rampage synergize.
 dimwishlist:item=1&perks=1631667848,4082225868#notes:Grave Robber & Swashbuckler synergize.
 dimwishlist:item=1&perks=1683379515,1546637391#notes:Disruption Break & Vorpal Weapon (anti-barrier).
