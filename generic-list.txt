@@ -17,6 +17,7 @@ dimwishlist:item=1&perks=2946784966,2458213969#notes:Tunnel Vision & Multikill C
 dimwishlist:item=1&perks=3096702027,1546637391#notes:Genesis & Vorpal Weapon (anti-barrier).
 dimwishlist:item=1&perks=3400784728,3425386926#notes:Triple Tap & Rampage synergize.
 dimwishlist:item=1&perks=3436462433,3592538738#notes:Surplus & Wellspring synergize.
+dimwishlist:item=1&perks=3523296417,1774574192#notes:Demolitionist & Osmosis synergize.
 
 // Perks that do not synergize.
 
