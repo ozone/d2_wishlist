@@ -21,6 +21,7 @@ dimwishlist:item=1&perks=3096702027,1546637391#notes:Genesis & Vorpal Weapon (an
 dimwishlist:item=1&perks=3400784728,1546637391#notes:Triple Tap & Vorpal Weapon synergize.
 dimwishlist:item=1&perks=3400784728,3425386926#notes:Triple Tap & Rampage synergize.
 dimwishlist:item=1&perks=3436462433,3592538738#notes:Surplus & Wellspring synergize.
+dimwishlist:item=1&perks=3523296417,11612903#notes:Demolitionist & Adrenaline Junkie synergize.
 dimwishlist:item=1&perks=3523296417,1774574192#notes:Demolitionist & Osmosis synergize.
 dimwishlist:item=1&perks=4071163871,3708227201#notes:Threat Detector & Surrounded synergize.
 
